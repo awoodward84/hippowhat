@@ -1,27 +1,23 @@
 Raesfeld 
 Flughafen 
-Berlin 
+Berlin ->German Capital of Germany, which is a reminder of the cities turbulent 20th-century hostory include its Holocaust. 
 Bratwurst 
 Hauptstrasse 
 Brot- a loaf of bread. 
-Gauss 
+Gauss -> 
 Klimaanlage 
-<<<<<<< HEAD
 Rammstein - Rammstein
 Musik - music
 Porsche 
 BMW 
-=======
 Rammstein
 Musik 
 Porsche -> High performance and expenisve luxury vehicle which is a German holding company with investments.
 BMW -> Bayerische Motoren Werke AG is a German multinational corporation which produces luxury vehicles and motorcylces.
->>>>>>> 0e1a14c2730f8145a4cada4b2fb51ce102316c18
 Biergarten
 Ratskeller 
 Dirndel -> a short dress that a waitress or a prostitute would wear. 
 Lederhose 
-<<<<<<< HEAD
 Audi 
 Schloss - Schloss 
 Munich - Munich
@@ -29,12 +25,12 @@ wettbewerbsfaehig - competitive
 Mehlhase - Mehlhase
 Gebaeck - Gebaeck
 Baeckerei Hund - bakery dog
-=======
 Audi -> Audi AG is a German automobile manufacturer that designs engineers produces markets and distributes luxury vehicles.
 Schloss 
 Munich 
 wettbewerbsfaehig
-Mehlhase 
+Mehlhase -> Professor at Arizona State University
 Gebaeck 
 Baeckerei Hund
->>>>>>> 0e1a14c2730f8145a4cada4b2fb51ce102316c18
+Baeckerei
+Hund
