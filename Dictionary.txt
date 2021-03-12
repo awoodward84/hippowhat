@@ -8,13 +8,13 @@ Gauss
 Klimaanlage 
 Rammstein
 Musik 
-Porsche 
-BMW 
+Porsche -> High performance and expenisve luxury vehicle which is a German holding company with investments.
+BMW -> Bayerische Motoren Werke AG is a German multinational corporation which produces luxury vehicles and motorcylces.
 Biergarten
 Ratskeller 
 Dirndel
 Lederhose 
-Audi 
+Audi -> Audi AG is a German automobile manufacturer that designs engineers produces markets and distributes luxury vehicles.
 Schloss 
 Munich 
 wettbewerbsfaehig
