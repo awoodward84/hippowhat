@@ -1,10 +1,10 @@
 Raesfeld 
 Flughafen 
-Berlin 
+Berlin ->German Capital of Germany, which is a reminder of the cities turbulent 20th-century hostory include its Holocaust. 
 Bratwurst 
 Hauptstrasse 
 Brot- a loaf of bread. 
-Gauss 
+Gauss -> 
 Klimaanlage 
 Rammstein
 Musik 
@@ -18,6 +18,7 @@ Audi -> Audi AG is a German automobile manufacturer that designs engineers produ
 Schloss 
 Munich 
 wettbewerbsfaehig
-Mehlhase 
+Mehlhase -> Professor at Arizona State University
 Gebaeck 
-Baeckerei Hund
+Baeckerei
+Hund
